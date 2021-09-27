@@ -11,16 +11,28 @@ react-native link is not needed.
 
 required Props and its datatypes :
 
-getCancelIconIndex  : null or Integer
-index               : null or Integer
-getRightIconIndex   : null or Integer
-value               : null or Integer of selected index
-showWrongIcon       : boolean
-showCorrectIcon     : boolean
-option              : String 
-radioButtonColor    : any Color String
-optionSelectColor   : highlighted optionColor String
-wrongAnsIcon        : any @expo/vector-icons
-correctAnsIcon      : any @expo/vector-icons
-onSelect            : func() 
-                        . Option will be selected or highlighted from this method.
+1.  getCancelIconIndex  : null or Integer
+
+2.  index               : null or Integer
+
+3.  getRightIconIndex   : null or Integer
+
+4.  value               : null or Integer of selected index
+
+5.  showWrongIcon       : boolean
+
+6.  showCorrectIcon     : boolean
+
+7.  option              : String 
+
+8.  radioButtonColor    : any Color String
+
+9.  optionSelectColor   : highlighted optionColor String
+
+10. wrongAnsIcon        : any @expo/vector-icons
+
+11. correctAnsIcon      : any @expo/vector-icons
+
+12. onSelect            : func() 
+
+                            . Option will be selected or highlighted from this method.
