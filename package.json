@@ -1,0 +1,23 @@
+{
+  "name": "custom-image-radio-button",
+  "version": "1.0.0",
+  "description": "to get custom image for radio button after verfying solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna4157/custom-image-radio-button.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-custom-radio-button"
+  ],
+  "author": "krishna4157",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna4157/custom-image-radio-button/issues"
+  },
+  "homepage": "https://github.com/krishna4157/custom-image-radio-button#readme"
+}
