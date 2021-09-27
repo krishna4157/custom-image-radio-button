@@ -4,13 +4,13 @@ import { TouchableOpacity } from "react-native-gesture-handler";
 import { View, Text } from "react-native";
 import { MaterialIcons } from '@expo/vector-icons';
 
-export default function CustomRadioButton({attempts,getCancelIconIndex,index,option,onSelect,showWrongIcon,value,wrongColor,rightColor,radioButtonColor}) {
+export default function CustomRadioButton({attempts,getCancelIconIndex,index,option,onSelect,showWrongIcon,value,wrongColor,rightColor,radioButtonColor,optionSelectColor}) {
 
     return (
       <TouchableOpacity onPress={()=> {
           
       onSelect(index,value)}} style={{padding:2}} activeOpacity={1} >
-        <View style={{borderRadius:30,borderColor:'grey',flexDirection:'row',padding:5,backgroundColor: value ==index ? Colors.optionSelect : 'white' }}>
+        <View style={{borderRadius:30,borderColor:'grey',flexDirection:'row',padding:5,backgroundColor: value ==index ? optionSelectColor  : 'white' }}>
         <View style={{justifyContent:'center'}}>
         
         {value ==index  ? 
