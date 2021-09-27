@@ -8,3 +8,19 @@ To use this dependency in your project, the following packages are needed.
 4. '@expo/vector-icons'
 
 react-native link is not needed.
+
+required Props and its datatypes :
+
+getCancelIconIndex  : null or Integer
+index               : null or Integer
+getRightIconIndex   : null or Integer
+value               : null or Integer of selected index
+showWrongIcon       : boolean
+showCorrectIcon     : boolean
+option              : String 
+radioButtonColor    : any Color String
+optionSelectColor   : highlighted optionColor String
+wrongAnsIcon        : any @expo/vector-icons
+correctAnsIcon      : any @expo/vector-icons
+onSelect            : func() 
+                        . Option will be selected or highlighted from this method.
