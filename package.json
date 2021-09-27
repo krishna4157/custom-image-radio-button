@@ -1,6 +1,6 @@
 {
   "name": "custom-image-radio-button",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "to get custom image for radio button after verfying solution",
   "main": "index.js",
   "scripts": {
