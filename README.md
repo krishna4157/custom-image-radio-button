@@ -36,3 +36,11 @@ required Props and its datatypes :
 12. onSelect            : func() 
 
                             . Option will be selected or highlighted from this method.
+
+Contribution :
+
+if you like my work 😀 u can contribute using vpa
+vpa : krishna.santho08@okaxis
+
+it will be a great support to me ☺.
+
