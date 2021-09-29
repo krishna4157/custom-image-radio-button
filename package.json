@@ -1,6 +1,6 @@
 {
   "name": "custom-image-radio-button",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "A custom designed react native Radio Button that can be used instead of radio-buttons for setting wrong icons when the option is wrong by updating params",
   "main": "index.js",
   "scripts": {
