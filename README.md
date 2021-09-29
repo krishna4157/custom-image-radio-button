@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/a6t7dsT.gif)
 
-custom-image-radio-button is a plugin to create seperate radio buttons without using radio groups thus inceasing flexibility to use any where in the component. in this component we can also set custom images for right option and wrong option if needed by passing params. 
+custom-image-radio-button is a plugin to create seperate radio buttons without using radio groups thus increasing flexibility to use any where in the component. in this component we can also set custom images for right option and wrong option if needed by passing params. 
 
 ## Getting started
 
